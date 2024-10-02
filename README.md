@@ -15,4 +15,5 @@ Me interesso pelas áreas de ciência de dados e inteligência artificial. Sou m
 Meu conhecimento em inglês é avançado, atingindo nota A no exame FCE de Cambridge. Também sei o básico de espanhol.
 
 *[UFMG]: Universidade Federal de Minas Gerais
+
 *[MMFDH]: Ministério da Mulher, da Família e dos Direitos Humanos
