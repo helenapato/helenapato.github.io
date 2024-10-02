@@ -1,7 +1,5 @@
 # Perfil
 
-[Português](./) | [English](english/profile.md)
-
 ## Sobre
 
 Bacharel em Ciência da Computação pela UFMG, sempre fui uma aluna muito estudiosa e dedicada. Assim, conquistei a terceira colocação no [Hall da Fama](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/dcc603_2020.htm) de Engenharia de Software, disciplina lecionada pelo professor [Eduardo Figueiredo](http://lattes.cnpq.br/1265706528850746).
@@ -17,3 +15,5 @@ Meu conhecimento em inglês é avançado, atingindo nota A no exame FCE de Cambr
 *[UFMG]: Universidade Federal de Minas Gerais
 
 *[MMFDH]: Ministério da Mulher, da Família e dos Direitos Humanos
+
+## [Projetos](projetos.md)
