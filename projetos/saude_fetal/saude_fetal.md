@@ -8,8 +8,8 @@
 | Professor | [Wagner Meira Jr.](http://lattes.cnpq.br/9092587237114334) |
 | Tecnologias | Python, Numpy, Pandas, Matplotlib, Scikit Learn, Google Colaboratory |
 
-- [Relatório](projetos/saude_fetal/TP3_Relatorio_Helena_Pato.pdf)
-- [Notebook](projetos/saude_fetal/tp3-classificacao.ipynb)
+- [Relatório](TP3_Relatorio_Helena_Pato.pdf)
+- [Notebook](tp3-classificacao.ipynb)
 
 A mortalidade infantil é um importante indicador de saúde e qualidade de vida. Definida como a taxa de óbitos de crianças menores de cinco anos de idade a cada mil nascidas vivas, um  valor  elevado  evidencia  condições  de  vida  precárias  e  baixo  nível  de  desenvolvimento. Nesse contexto, a ONU espera que, em 2030, os países acabem com as mortes preveníveis de recém-nascidos e crianças menores de cinco anos de idade.  
 
