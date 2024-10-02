@@ -9,7 +9,7 @@
 | Tecnologias | Python, Numpy, Pandas, Matplotlib, Scikit Learn, Google Colaboratory |
 
 - [Relatório](TP3_Relatorio_Helena_Pato.pdf)
-- [Notebook](tp3-classificacao.ipynb)
+- [Notebook](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/saude_fetal/tp3-classificacao.ipynb)
 
 A mortalidade infantil é um importante indicador de saúde e qualidade de vida. Definida como a taxa de óbitos de crianças menores de cinco anos de idade a cada mil nascidas vivas, um  valor  elevado  evidencia  condições  de  vida  precárias  e  baixo  nível  de  desenvolvimento. Nesse contexto, a ONU espera que, em 2030, os países acabem com as mortes preveníveis de recém-nascidos e crianças menores de cinco anos de idade.  
 
