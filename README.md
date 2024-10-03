@@ -1,6 +1,4 @@
-# Perfil
-
-## Sobre
+# Sobre mim
 
 Bacharel em Ciência da Computação pela UFMG, sempre fui uma aluna muito estudiosa e dedicada. Assim, conquistei a terceira colocação no [Hall da Fama](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/dcc603_2020.htm) de Engenharia de Software, disciplina lecionada pelo professor [Eduardo Figueiredo](http://lattes.cnpq.br/1265706528850746).
 
