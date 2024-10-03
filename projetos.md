@@ -9,7 +9,7 @@
 - Atividades: Modelagem e criação de banco de dados com dados reais, consultas SQL
 - Tecnologias: Python, Jupyter Notebook, SQLite, Numpy, Pandas
 
-## Videogames - Qualidade versus Popularidade (06/2019)
+## [Videogames - Qualidade versus Popularidade (06/2019)](projetos/videogames.md)
 - Objetivo: determinar se a qualidade de um jogo influencia em sua popularidade.
 - Atividades: caracterização, limpeza e balanceamento de dados, elaboração de visualizações, regressão linear, classificação por kNN
 - Tecnologias: Python, Jupyter Notebook, Matplotlib, Numpy, Scikit Learn, Pandas
