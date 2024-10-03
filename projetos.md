@@ -5,7 +5,8 @@
 - Atividades: caracterização, balanceamento e normalização de dados, redução de dimensionalidade, modelos de classificação e ensemble, métricas de avaliação e erro
 - Tecnologias: Python, Numpy, Pandas, Matplotlib, Scikit Learn
 
-## Banco de Dados de Licitações (10/2020)
+## [Banco de Dados de Licitações (10/2020)](projetos/licitacoes/licitacoes.md)
+- Objetivo: projetar e implementar um banco de dados relacional para análise de dados abertos governamentais.
 - Atividades: Modelagem e criação de banco de dados com dados reais, consultas SQL
 - Tecnologias: Python, Jupyter Notebook, SQLite, Numpy, Pandas
 
