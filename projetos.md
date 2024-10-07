@@ -1,7 +1,12 @@
 # Projetos
 
+## [Rotatividade de Clientes (01/2024)](projetos/rotatividade_clientes/rotatividade_clientes.md)
+- Objetivo: predizer quais clientes têm mais chance de abandonar a empresa, baseado em seus dados de uso do serviço.
+- Atividades: caracterização e transformação de dados, regressão logística, avaliação de modelo, geração de previsões
+- Tecnologias: Python, Jupyter Notebook, PySpark
+
 ## [Classificação de Saúde Fetal (11/2022)](projetos/saude_fetal/saude_fetal.md)
-- Objetivo: a partir de resultados de exames CTG, classificar a saúde fetal em normal, suspeita ou patológica.
+- Objetivo: a partir de resultados de exames CTG, classificar a saúde fetal em normal, suspeita ou patológica, utilizando a metodologia CRISP-DM.
 - Atividades: caracterização, balanceamento e normalização de dados, redução de dimensionalidade, modelos de classificação e ensemble, métricas de avaliação e erro
 - Tecnologias: Python, Numpy, Pandas, Matplotlib, Scikit Learn
 
