@@ -8,7 +8,7 @@
 | Instrutor | [Jose Portilla](https://www.udemy.com/user/joseportilla/) |
 | Tecnologias | Python, Jupyter Notebook, PySpark |
 
-- [Notebook](Logistic_Regression_Consulting_Project.ipynb)
+- [Notebook](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/rotatividade_clientes/Logistic_Regression_Consulting_Project.ipynb)
 
 Uma empresa tem notado uma grande rotatividade de clientes que usam seus serviços. Atualmente, eles atribuem gerentes de contas aleatoriamente para seus consumidores. Porém, eles gostariam de usar dados históricos para prever quais clientes irão deixar a empresa, e focar os gerentes nessas pessoas.
 
