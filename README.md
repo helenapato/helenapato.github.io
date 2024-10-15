@@ -14,4 +14,4 @@ Meu conhecimento em inglês é avançado, atingindo nota A no exame FCE de Cambr
 
 *[MMFDH]: Ministério da Mulher, da Família e dos Direitos Humanos
 
-## [Projetos](projetos.md)
+[Veja alguns de meus projetos!](projetos.md)
