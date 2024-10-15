@@ -5,7 +5,7 @@
 ## [Rotatividade de Clientes (01/2024)](projetos/rotatividade_clientes.md)
 - **Objetivo:** predizer quais clientes têm mais chance de abandonar a empresa, baseado em seus dados de uso do serviço.
 - **Atividades:** caracterização e transformação de dados, regressão logística, avaliação de modelo, geração de previsões
-- **Tecnologias:** Python, Jupyter Notebook, PySpark
+- **Tecnologias:** Python, Jupyter Notebook, PySpark, Matplotlib
 
 ---
 
