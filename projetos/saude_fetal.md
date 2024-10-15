@@ -3,7 +3,7 @@
 |  |  |
 |------|------|
 | Data | 11/2022 |
-| Tipo | Individual |
+| Colaboração | Individual |
 | Disciplina | Mineração de Dados |
 | Professor | [Wagner Meira Jr.](http://lattes.cnpq.br/9092587237114334) |
 | Tecnologias | Python, Numpy, Pandas, Matplotlib, Scikit Learn, Google Colaboratory |

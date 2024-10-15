@@ -3,7 +3,7 @@
 |  |  |
 |------|------|
 | Data | 06/2019 |
-| Tipo | Dupla |
+| Colaboração | Dupla |
 | Disciplina | Introdução a Ciência de Dados |
 | Professor | [Flávio Vinícius Diniz de Figueiredo](http://lattes.cnpq.br/9481210393304645) |
 | Tecnologias | Python, Jupyter Notebook, Matplotlib, Numpy, Scikit Learn, Pandas |

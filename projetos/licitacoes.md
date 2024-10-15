@@ -3,7 +3,7 @@
 |  |  |
 |------|------|
 | Data | 10/2020 |
-| Tipo | Grupo |
+| Colaboração | Grupo |
 | Disciplina | Introdução a Bancos de Dados |
 | Professor | [Rodrygo Luis Teodoro Santos](http://lattes.cnpq.br/1162362624079364) |
 | Tecnologias | Python, Jupyter Notebook, SQLite, Numpy, Pandas |

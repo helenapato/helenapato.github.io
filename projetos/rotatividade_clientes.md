@@ -3,7 +3,7 @@
 |  |  |
 |------|------|
 | Data | 01/2024 |
-| Tipo | Individual |
+| Colaboração | Individual |
 | Curso | [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/?couponCode=24T5MT100724) |
 | Instrutor | [Jose Portilla](https://www.udemy.com/user/joseportilla/) |
 | Tecnologias | Python, Jupyter Notebook, PySpark |
