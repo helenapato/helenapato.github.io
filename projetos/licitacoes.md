@@ -1,12 +1,12 @@
-## Banco de Dados de Licitações
+# Banco de Dados de Licitações
 
-|  |  |
-|------|------|
-| Data | 10/2020 |
-| Colaboração | Grupo |
-| Disciplina | Introdução a Bancos de Dados |
-| Professor | [Rodrygo Luis Teodoro Santos](http://lattes.cnpq.br/1162362624079364) |
-| Tecnologias | Python, Jupyter Notebook, SQLite, Numpy, Pandas |
+
+|-------------|-----------------------------------------------------------------------|
+| Data        | 10/2020                                                               |
+| Colaboração | Grupo                                                                 |
+| Disciplina  | Introdução a Bancos de Dados, UFMG                                    |
+| Professor   | [Rodrygo Luis Teodoro Santos](http://lattes.cnpq.br/1162362624079364) |
+| Tecnologias | Python, Jupyter Notebook, SQLite, Numpy, Pandas                       |
 
 - [Notebook](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/licitacoes/TP2_IBD_Notebook.ipynb)
 - [Video](https://www.youtube.com/watch?v=Kt4Wm4tGM44&feature=youtu.be)

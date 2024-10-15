@@ -1,12 +1,11 @@
 # Videogames - Qualidade versus Popularidade
 
-|  |  |
-|------|------|
-| Data | 06/2019 |
-| Colaboração | Dupla |
-| Disciplina | Introdução a Ciência de Dados |
-| Professor | [Flávio Vinícius Diniz de Figueiredo](http://lattes.cnpq.br/9481210393304645) |
-| Tecnologias | Python, Jupyter Notebook, Matplotlib, Numpy, Scikit Learn, Pandas |
+|-------------|-------------------------------------------------------------------------------|
+| Data        | 06/2019                                                                       |
+| Colaboração | Dupla                                                                         |
+| Disciplina  | Introdução a Ciência de Dados, UFMG                                           |
+| Professor   | [Flávio Vinícius Diniz de Figueiredo](http://lattes.cnpq.br/9481210393304645) |
+| Tecnologias | Python, Jupyter Notebook, Matplotlib, Numpy, Scikit Learn, Pandas             |
 
 - [Notebook](https://github.com/helenapato/ProjetoFinal_ICD_201901/blob/master/NotebookProjetoFinalVideoGames.ipynb)
 - [Video](https://www.youtube.com/watch?v=8a3kgH6a2Ms&feature=youtu.be)

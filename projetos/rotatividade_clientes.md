@@ -1,12 +1,11 @@
 # Rotatividade de Clientes
 
-|  |  |
-|------|------|
-| Data | 01/2024 |
-| Colaboração | Individual |
-| Curso | [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/?couponCode=24T5MT100724) |
-| Instrutor | [Jose Portilla](https://www.udemy.com/user/joseportilla/) |
-| Tecnologias | Python, Jupyter Notebook, PySpark |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Data        | 01/2024                                                                                                                       |
+| Colaboração | Individual                                                                                                                    |
+| Curso       | [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/), Udemy |
+| Instrutor   | [Jose Portilla](https://www.udemy.com/user/joseportilla/)                                                                     |
+| Tecnologias | Python, Jupyter Notebook, PySpark                                                                                             |
 
 - [Notebook](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/rotatividade_clientes/Logistic_Regression_Consulting_Project.ipynb)
 

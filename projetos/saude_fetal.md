@@ -1,11 +1,10 @@
 # Classificação de Saúde Fetal
 
-|  |  |
-|------|------|
-| Data | 11/2022 |
-| Colaboração | Individual |
-| Disciplina | Mineração de Dados |
-| Professor | [Wagner Meira Jr.](http://lattes.cnpq.br/9092587237114334) |
+|-------------|----------------------------------------------------------------------|
+| Data        | 11/2022                                                              |
+| Colaboração | Individual                                                           |
+| Disciplina  | Mineração de Dados, UFMG                                             |
+| Professor   | [Wagner Meira Jr.](http://lattes.cnpq.br/9092587237114334)           |
 | Tecnologias | Python, Numpy, Pandas, Matplotlib, Scikit Learn, Google Colaboratory |
 
 - [Relatório](saude_fetal/TP3_Relatorio_Helena_Pato.pdf)
