@@ -21,7 +21,7 @@ Para analisar essas relações, utilizamos uma base de dados sobre Video Games q
 
 ![Número de jogos por gênero](videogames/jogos_genero.png)
 
-Usamos um modelo de regressão linear simples para relacionar a avaliação dos críticos às vendas globais. O RMSE resultante foi de 1.6, um valor significativo, considerando que as vendas estão na escala dos milhões. Já o $Rˆ2$ foi de 0.09, um valor muito próximo de zero, reforçando a ideia de que o modelo não explica a variação dos dados. Como resultado, nossa função de regressão ficou com uma inclinação diferente daquela representada pelos pontos.
+Usamos um modelo de regressão linear simples para relacionar a avaliação dos críticos às vendas globais. O RMSE resultante foi de 1.6, um valor significativo, considerando que as vendas estão na escala dos milhões. Já o $R^2$ foi de 0.09, um valor muito próximo de zero, reforçando a ideia de que o modelo não explica a variação dos dados. Como resultado, nossa função de regressão ficou com uma inclinação diferente daquela representada pelos pontos.
 
 ![Regressão linear da relação entre vendas e avaliações](videogames/rl1.png)
 
@@ -36,6 +36,8 @@ Já para medir como o gênero influencia nas vendas ao redor do mundo, utilizamo
 _Matriz de confusão do classificador kNN inicial_
 
 Para contornarmos esse problema, fizemos uma amostragem com reposição dos jogos, equilibrando o número de instâncias de cada gênero. Essa abordagem gerou resultados melhores e foi possível, por exemplo, contrastar a popularidade de jogos de ação na América do Norte, com a de jogos de RPG no Japão. Usando outro teste de hipótese, concluímos que esses dois aspectos são sim, correlacionados e serviram para a classificação realizada.
+
+*[RMSE]: Raiz do Erro Quadrático Médio
 
 ---
 
