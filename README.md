@@ -2,6 +2,8 @@
 
 ---
 
+<img src="imagens/foto.png" width="200" height="auto" align="right">
+
 Bacharel em Ciência da Computação pela UFMG, sempre fui uma aluna muito estudiosa e dedicada. Assim, conquistei a terceira colocação no [Hall da Fama](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/dcc603_2020.htm) de Engenharia de Software, disciplina lecionada pelo professor [Eduardo Figueiredo](http://lattes.cnpq.br/1265706528850746).
 
 Durante o curso, participei do projeto de iniciação científica SINDH Conhecimento, sob a orientação da professora [Gisele Pappa](http://lattes.cnpq.br/5936682335701497). Nesse projeto, fizemos a caracterização, limpeza e tratamento de um conjunto de dados advindos do MMFDH, formado por mais de 4 milhões de registros de ligações ao disque-denúncia 100 e 180. O intuito era gerar insights sobre as características correlacionadas ao fato de a pessoa formalizar uma denúncia de violência.
