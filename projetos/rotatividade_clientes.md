@@ -43,4 +43,4 @@ _Predições geradas para novos clientes_
 
 ---
 
-[Acesse o Notebook com o código original!](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/rotatividade_clientes/Logistic_Regression_Consulting_Project.ipynb)
+[Acesse o Notebook com o código!](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/rotatividade_clientes/Logistic_Regression_Consulting_Project.ipynb)

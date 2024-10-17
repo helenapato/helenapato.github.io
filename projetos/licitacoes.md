@@ -52,4 +52,4 @@ _Consulta para calcular o custo médio das licitações do Ministério da Educa�
 
 ---
 
-[Acesse o Notebook com o código original!](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/licitacoes/TP2_IBD_Notebook.ipynb)
+[Acesse o Notebook com o código!](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/licitacoes/TP2_IBD_Notebook.ipynb)

@@ -37,4 +37,4 @@ Dessa forma, o modelo está apto a atuar em seu propósito inicial, de ajudar a 
 
 ---
 
-[Acesse o Notebook com o código original!](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/saude_fetal/tp3-classificacao.ipynb)
+[Acesse o Notebook com o código!](https://github.com/helenapato/helenapato.github.io/blob/main/projetos/saude_fetal/tp3-classificacao.ipynb)
