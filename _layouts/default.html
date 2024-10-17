@@ -24,6 +24,8 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
         <nav>
             <ul>
               {% for item in site.data.menu %}
@@ -31,8 +33,6 @@
               {% endfor %}
             </ul>
         </nav>
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
